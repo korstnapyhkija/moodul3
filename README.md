@@ -1,8 +1,8 @@
 <h1> Installation guide </h1>
 <p>1. install php</p>
-<p>2. git clone https://github.com/korstnapyhkija/space.git</p>
+<p>2. git clone https://github.com/korstnapyhkija/moodul3.git</p>
 <p>3. navigate into the project folder</p>
-<p>cd space</p>
+<p>cd moodul3</p>
 <p>4. run composer install</p>
 <p>composer install</p>
 <p>5. duplicate .env.example and rename it to .env</p>
